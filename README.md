@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/crimsonyash9012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crimsonyash9012" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-kumar-gola-480940282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kumar-gola-480940282/" height="30" width="40" /></a>
+<a href="https://instagram.com/crimson.yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crimson.yash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashkrgola9012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkrgola9012" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashkumarg3tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashkumarg3tm" height="30" width="40" /></a>
 </p>
