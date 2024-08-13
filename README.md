@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 <h1 align="center">Hi 👋, I'm Yash Kumar Gola</h1>
 <h3 align="center">An aspiring Android Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240723%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240723T042401Z&X-Amz-Expires=300&X-Amz-Signature=8cc15e7a0258f4565cd84f368f8b7eb769a6f335c26627fc502bc973916cdd3e&X-Amz-SignedHeaders=host&actor_id=151176007&key_id=0&repo_id=588181932">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crimsonyash9012&label=Profile%20views&color=0e75b6&style=flat" alt="crimsonyash9012" /> </p>
 
